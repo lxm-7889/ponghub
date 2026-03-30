@@ -1,14 +1,10 @@
 services:
-  - name: "My Pages"
+  - name: "Alano"
     endpoints:
-      - url: "https://blog.ch3nyang.top"
-      - url: "https://file.ch3nyang.top"
-      - url: "https://til.ch3nyang.top"
-      - url: "https://mind.ch3nyang.top"
-  - name: "My Services"
+      - url: "https://lxm-7889.github.io/ponghub/"
+  - name: "学校官网"
     endpoints:
-      - url: "https://2024.ch3nyang.top/health"
-      - url: "https://2024.ch3nyang.top"
+      - url: "https://tj.ustb.edu.cn/"
 
 notifications:
   enabled: false
